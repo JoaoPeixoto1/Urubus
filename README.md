@@ -1,2 +1,0 @@
-# Urubus
-aquele site la
