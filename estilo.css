@@ -1,0 +1,41 @@
+body{margin:0;padding:0;background:#1F2833}
+nav{width:100%;background-color:rgba(0,0,0,.3);overflow:hidden;position:fixed;}
+ul{padding:0;margin:0 0 0 550px;list-style:none}
+li{float:left;}
+.logo img{position:fixed;margin-top:10px;margin-left:15px;float:left;}
+nav a{width:100px;display:block;padding:20px 15px;text-decoration:none;font-family:sans-serif;color:#C5C6C7;text-align:center;text-transform:uppercase;letter-spacing:2px;font-weight:600;transition: all ease 0.2s;}
+nav a:hover{background-color:#45A29E;}
+.txt{height:90%;width:60%;float:left;background-color:#1F2833}
+.txt p{text-decoration:none;font-family:verdana;color:#fff;text-align:justify;font-weight:600;margin:0 10 10 20px;font-size:25px}
+.txt h1{text-decoration:none;font-family:verdana;color:#66FCF1;text-align:justify;font-weight:600;margin:100 10 10 20px;font-size:30px;text-transform:uppercase;}
+.busao{height:90%;width:40%;float:left;background-color:#1F2833}
+.busao img{margin:125 0 0 15%;border-radius: 30px;}
+.rdp{height:8%;width:100%;float:left;}
+.rdp h6{text-decoration:none;font-family:sans-serif;color:#C5C6C7;text-align:justify;font-weight:600;margin:22 10 10 80%;font-size:13px}
+hr{border:none;height:1px;background-color:#333;}
+.divtbl{height:90%;width:100%;float:left;background-color:#1F2833;}
+.divtbl table{margin:170 0 0 0%; font-family:sans-serif;border-collapse: collapse;width: 100%;text-align:center;}
+.divtbl table td{border: 1px solid #ddd;padding: 8px;}
+.divtbl table th{border: 1px solid #ddd;padding: 8px;}
+.divtbl table tr{background-color: #45A29E;}
+.divtbl table tr:hover {background-color: #ddd;}
+.divtbl table th{padding-top: 12px;padding-bottom: 12px;text-align: left;background-color:#0B0C10;color: white;text-align:center}
+.divtbl h2{text-decoration:none;font-family:sans-serif;color:#C5C6C7;text-align:center;text-transform:uppercase;font-weight:200;font-size:15px;}
+.divit{height:110%;width:100%;float:left;background-color:#1F2833;}
+.divit table{margin:130 0 0 0%; font-family: Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%;text-align:center}
+.divit table td{border: 1px solid #ddd;padding: 8px;border-left:3px solid #ddd}
+.divit table th{border: 1px solid #ddd;padding: 8px;}
+.divit table tr{background-color: #45A29E;;}
+.divit table td:hover {background-color: #ddd;}
+.divit table th{padding-top: 12px;padding-bottom: 12px;text-align: left;background-color:#0B0C10;color: white;text-align:center}
+.divit h2{text-decoration:none;font-family:sans-serif;color:#C5C6C7;text-align:center;text-transform:uppercase;font-weight:200;font-size:15px;}
+.divsedes{height:90%;width:100%;float:left;background-color:#1F2833;}
+.divsedes img{border-radius: 30px;margin:125 2 2 5.4%;}
+.divsedes table{text-align:center;text-decoration:none;font-family:sans-serif;color:#C5C6C7;text-transform:uppercase;letter-spacing:2px;}
+.divform{height:90%;width:40%;float:left;background-color:#1F2833;text-align:center}
+.divform form{margin:100 0 0 0%;}
+.divform form select{border:2px solid #66FCF1;border-radius:4px;background-color:#45A29E;color:#fff}
+.divform form h2{text-decoration:none;font-family:sans-serif;color:#C5C6C7;text-align:center;font-weight:600;font-size:20px}
+input[type=text]{border:2px solid #66FCF1;border-radius:4px;background-color:#45A29E;color:#fff}
+input[type=textarea]{border:2px solid #66FCF1;border-radius:4px;background-color:#45A29E;color:#fff}
+input[type=submit]{background-color:#66FCF1;border:none;color white;padding:16px 32px;text-decoration:none;margin: 4px 2px;cursor:pointer;}
